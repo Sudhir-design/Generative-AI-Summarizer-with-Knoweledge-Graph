@@ -22,4 +22,3 @@ This project is a **Streamlit web application** that uses **Hugging Face Transfo
 
 ---
 
-## 📂 Project Structure
